@@ -30,7 +30,7 @@ We can observe the Status of the Orders demonstrating the health of multiple ope
 * We can also observe the Bifurcation of revenues based on Web Stores where FRANCE constitutes almost 50% of the revenue as a source followed by POLAND Web Store.
 * We can Notice the Customer Group Orientation of revenues generated where "Domestic Companies of France" dominating the Customer Group Section
 
-<img src="Dark Lifetime Report Snaps/Tabulation Dashboard.png">
+<img src="Dark Lifetime Report Snaps/Tabulation Dashboard Representation.png">
 
 * Here, we can notice the detailed and accurate data organized based on Order Status for Each Country proving the stats of overall collection of revenues throughout its lifetime
 
