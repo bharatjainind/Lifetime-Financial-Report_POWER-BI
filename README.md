@@ -1,4 +1,4 @@
-# Lifetime-Financial-Report_POWER-B
+# Lifetime-Financial-Report_POWER-BI
 It is a Company's Lifetime Financial Analytical Report with **Distorted and Normalised figures** *(for Privacy Reasons and Precautions)* demonstrating a financial performance of a Company engaged in hardware industry specialized in spring manufacturing throughout their Lifetime
 
 ## You can have a look below into the Snapshots of the Report --
