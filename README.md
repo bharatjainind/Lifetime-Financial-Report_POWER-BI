@@ -1,7 +1,12 @@
 # Lifetime-Financial-Report_POWER-BI
+
+<img src="https://www.tsg.com/sites/default/files/PowerBI_Banner.png">
+
 It is a Company's Lifetime Financial Analytical Report with **Distorted and Normalised figures** *(for Privacy Reasons and Precautions)* demonstrating a financial performance of a Company engaged in hardware industry specialized in spring manufacturing throughout their Lifetime
 
-## You can have a look below into the Snapshots of the Report --
+<img src="https://i1.wp.com/sqldusty.com/wp-content/uploads/2019/02/Power-BI-architecture-v4.png?ssl=1">
+
+## You can have a look below into the Snapshots of this Report --
 
 <img src="Dark Lifetime Report Snaps/Graphic Dashboard.png">
 
@@ -388,4 +393,5 @@ I also had to Model the Data to build consistent relationships amoung multiple D
     in
         #"Reordered Columns3"
         
-This Project Report is only meant for Analytical Purpose and nothing more than that
+* *This Project Report is only meant for Analytical Purpose and nothing more than that.
+* *Please Visit the real Dark Lifetime Report.pbix in this repository for full dasboard experience.
