@@ -2,51 +2,51 @@
 
 <img src="https://www.tsg.com/sites/default/files/PowerBI_Banner.png">
 
-It is a Company's Lifetime Financial Analytical Report with **Distorted and Normalised figures** *(for Privacy Reasons and Precautions)* demonstrating a financial performance of a Company engaged in hardware industry specialized in spring manufacturing throughout their Lifetime
+This is a company’s lifetime financial analytical report with **distorted and normalized figures** *(for privacy reasons and precautions)*. It demonstrates the financial performance of a company engaged in the hardware industry, specializing in spring manufacturing, throughout its lifetime.
 
 <img src="https://i1.wp.com/sqldusty.com/wp-content/uploads/2019/02/Power-BI-architecture-v4.png?ssl=1">
 
-## You can have a look below into the Snapshots of this Report --
+## Below are some snapshots of this report. --
 
 <img src="Dark Lifetime Report Snaps/Graphic Dashboard.png">
 
-* As we can observe the overall orders placed within a particular period of time that can be evaluated in terms of Order Counts as well as the Monetary exploitation terms where we can see a Dip in the month of January followed by a Stable rise.
-* We can also compare the revenues over time in comparison with the count of orders placed within a month.
-* An Order takes time to be executed and goes through multiple phases which we can also observe in the Order Status Funnel tab where 5.63% of orders have been Canceled so far
-* France seems to be the Targeted Country for maximum expectation in terms of Sales
+* We can observe the overall orders placed within a particular period of time that can be evaluated in terms of order counts as well as in terms of monetary values where we can notice a dip in the month of January followed by a stable rise.
+* We can also compare the revenues over time with the number of orders placed within a month.
+* An order takes time to be executed and goes through multiple phases, which we can observe in the Order Status Funnel tab. So far, 5.63% of orders have been canceled.
+* France seems to be the targeted country for maximum sales expectations.
 
 <img src="Dark Lifetime Report Snaps/Order Status.png">
 
-We can observe the Status of the Orders demonstrating the health of multiple operations within the Organisation and they can be used to filter the Order Counts as per the Time
+We can observe the status of the orders, which demonstrates the health of multiple operations within the organization. We can use them to filter the order counts by time.
 
 <img src="Dark Lifetime Report Snaps/Order Categorized.png">
 
-* France and Poland aeem to be the Leading Countries to make Orders of Springs capturing approximately 75% and 17% Shares of the Targeted Market respectively.
-* 90% of the Orders have been Completed So Far meanwhile 3% of the Orders are still Pending to reach their Final Destination.
+* France and Poland seem to be the leading countries to order springs, capturing approximately 75% and 17% shares of the targeted market respectively.
+* 90% of the orders have been completed so far, while 3% of the orders are still pending to reach their final destination.
 
 <img src="Dark Lifetime Report Snaps/Revenue Categorization.png">
 
-* We can observe the Downstream Trend of Revenue generation in the last few months probably due to the Strict Rules over the import of Goods in multiple sections of France as per the improvised provisions for tackling COVID 19 Pendamic Conditions resulting in the revenue to barely cross our Lifetime Average Revenue Mark of 75.25K EURO
-* We can also observe the Bifurcation of revenues based on Web Stores where FRANCE constitutes almost 50% of the revenue as a source followed by POLAND Web Store.
-* We can Notice the Customer Group Orientation of revenues generated where "Domestic Companies of France" dominating the Customer Group Section
+* We can observe the downward trend of revenue generation in the last few months, probably due to the strict rules over the import of goods in multiple sections of France as per the improvised provisions for tackling COVID-19 pandemic conditions. This resulted in the revenue barely crossing our lifetime average revenue mark of 75.25K EURO.
+* We can also observe the bifurcation of revenues based on web stores, where FRANCE constitutes almost 50% of the revenue as a source, followed by the POLAND web store.
+* We can notice the customer group orientation of revenues generated, where “Domestic Companies of France” dominates the customer group section.
 
 <img src="Dark Lifetime Report Snaps/Tabulation Dashboard Representation.png">
 
-* Here, we can notice the detailed and accurate data organized based on Order Status for Each Country proving the stats of overall collection of revenues throughout its lifetime
+* Here, we can see the detailed and accurate data organized by order status for each country, showing the statistics of overall revenue collection throughout its lifetime.
 
 <img src="Dark Lifetime Report Snaps/MAP.png">
 
-* Demonstrating the Country performances regarding Financials from an overall perspective
-
+* Here, we can see the country's performance regarding financials from an overall perspective.
+* 
 <img src="Dark Lifetime Report Snaps/Branch Analysis.png">
 
-* The Nominal details, as well as Revenue bifercation, can be processed easily by applying relevant FILTERS giving Specific pieces of information about the Customer for future references
+* The nominal details and revenue bifurcation can be easily processed by applying relevant filters and giving specific information about the customer for future reference.
 
 ## Data Structure & Relationships
 
 <img src="Dark Lifetime Report Snaps/Data Modelling.png">
 
-I also had to Model the Data to build consistent relationships amoung multiple Datasets through M language while Transforming the Data, You can find the necessory scripts below to demostrate How I have ultimately Transformed the data
+I also had to model the data to build consistent relationships among multiple datasets through M language while transforming the data. You can find the necessary scripts below to demonstrate how I have ultimately transformed the data.
 
 # For Orders Table
 
@@ -393,5 +393,5 @@ I also had to Model the Data to build consistent relationships amoung multiple D
     in
         #"Reordered Columns3"
         
-* *This Project Report is only meant for Analytical Purpose and nothing more than that.
-* *Please Visit the real Dark Lifetime Report.pbix in this repository for full dasboard experience.
+* *This Project Report is only meant for Analytical Purposes and nothing more than that.
+* *Please Visit the real Dark Lifetime Report.pbix in this repository for a full dashboard experience.
