@@ -1,6 +1,6 @@
 # Lifetime-Financial-Report_POWER-BI
 
-<img src="https://www.tsg.com/sites/default/files/PowerBI_Banner.png">
+<img src="https://global-uploads.webflow.com/5e45e7fa0ca16f06c09e1e56/61d869387b27631ea8f491b5_Banniere%20blog%20-%20ERP.png">
 
 This is a company’s lifetime financial analytical report with **distorted and normalized figures** *(for privacy reasons and precautions)*. It demonstrates the financial performance of a company engaged in the hardware industry, specializing in spring manufacturing, throughout its lifetime.
 
